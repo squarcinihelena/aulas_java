@@ -6,7 +6,7 @@ public class Ex_03 {
 
 	public static void main(String[] args) {
 		
-		//variaveis tipo float
+		//variaveis 
 		float salarioBruto, adcNoturno, horasExtras, descontos, salarioLiquido;
 		
 		//instancia scanner

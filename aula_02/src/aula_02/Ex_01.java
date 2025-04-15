@@ -6,7 +6,7 @@ public class Ex_01 {
 
 	public static void main(String[] args) {
 		
-		//declarando variaveis
+		//variaveis
 		float salarioInicial, abono, novoSalario;
 		
 		//instanciando o scanner

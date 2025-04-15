@@ -6,7 +6,7 @@ public class Ex_02 {
 
 	public static void main(String[] args) {
 		
-		//variaveis tipo float
+		//variaveis 
 		float nota01, nota02, nota03, nota04, mediaFinal;
 		
 		//instancia scanner

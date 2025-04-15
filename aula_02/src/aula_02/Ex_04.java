@@ -6,7 +6,7 @@ public class Ex_04 {
 
 	public static void main(String[] args) {
 		
-		//variaveis floa
+		//variaveis 
 		float n1, n2, n3, n4, diferenca;
 
 		//instancia scanner
