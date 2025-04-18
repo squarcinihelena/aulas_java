@@ -20,7 +20,7 @@ public class For_Ex02 {
         //insere os 10 numeros pelo usuario 
         for (int i = 0; i < 10; i++) { //ou .lenght
         	
-        	System.out.println("Posição no array: " + i);//onde está o index só pra visualizar
+        	System.out.println("Posição no array: " + i);//onde está o index ((só pra visualizar))
         	
             System.out.print("Escreva o " + (i + 1) + "° número: ");
             nums[i] = sc.nextInt(); 
