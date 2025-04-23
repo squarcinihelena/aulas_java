@@ -25,14 +25,14 @@ public class Ex01 {
 	            cores.add(cor);
 	        }
 
-	        // mostrando as cores do jeito que o usuário digitou
+	        // mostrando as cores do jeito q o usuário digitou
 	        System.out.println("\nlistar todas as cores:");
 	        for (String cor : cores) {
 	            // mostrando a cor
 	            System.out.println(cor);
 	        }
 
-	        // ordenando as cores em ordem alfabética
+	        // ordenando as cores 
 	        Collections.sort(cores);
 
 	        // mostrando as cores ordenadas

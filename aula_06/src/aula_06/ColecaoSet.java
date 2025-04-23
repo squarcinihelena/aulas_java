@@ -53,8 +53,6 @@ public class ColecaoSet {
 		System.out.println("Exibir os dados do ArrayList");
 		frutasList.forEach(System.out::println);
 		
-		//ATENÇAO msm depois de tudo isso o set continua funcionadno
-		//vc deixa eles intactos e copia e transforma em um array list 
 	}
 
 }
